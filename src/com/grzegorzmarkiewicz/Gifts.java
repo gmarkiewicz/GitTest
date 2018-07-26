@@ -11,7 +11,7 @@ public class Gifts {
         long giver = 1L;
         long receiver = 1L;
         long sum = 0;
-        long max = 8600000000L;
+        long max = 9600000000L;
 
         List<Long> giverList = new ArrayList<>();
         List<Long> receiverList = new ArrayList<>();
