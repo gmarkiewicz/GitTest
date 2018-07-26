@@ -7,7 +7,7 @@ import java.util.List;
 public class Gifts {
     public static void main(String[] args) {
 
-        int counter = 1;
+        int counter = 5;
         long giver = 1L;
         long receiver = 1L;
         long sum = 0;
